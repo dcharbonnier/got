@@ -14,9 +14,6 @@
 		"build": "del-cli dist && tsc",
 		"prepare": "npm run build"
 	},
-	"files": [
-		"dist"
-	],
 	"keywords": [
 		"http",
 		"https",
